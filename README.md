@@ -9,13 +9,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football⚽ and Read📖
 
-details>
-  <summary>:zap: Github Stats</summary>
+  ###:zap: Github Stats
 
   <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
 
-</details>
-
+<br/>
+<br/>
 
 ### Connect with me:
 
