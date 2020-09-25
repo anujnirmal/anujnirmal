@@ -9,12 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football⚽ and Read📖
 
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
-
-<br/>
-<br/>
 
 ---
 
@@ -45,6 +39,9 @@
 <br />
 <br />
 
+  <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
+
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -60,7 +57,7 @@
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
 
 ---
-
+  <summary>:zap: Github Stats</summary>
 
 
 
