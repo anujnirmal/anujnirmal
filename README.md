@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love to play Football⚽ and Read📖
 
 
----
 
 ### Connect with me:
 
@@ -39,7 +38,6 @@
 <br />
 <br />
 
-  <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
 
 
 ---
@@ -56,11 +54,8 @@
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
 
----
-  <summary>:zap: Github Stats</summary>
 
-
-
+  <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
 
 
 
