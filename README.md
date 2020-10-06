@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quick  update video || Anuj Nirmal](https://www.youtube.com/watch?v=v1nzIoj6JN4)
 - [LATEST SONY Vintage Camera || Video made during Lock down](https://www.youtube.com/watch?v=gZMjsPggjw0)
 - [Complete guide on choosing right video editor | free and paid | All video editors](https://www.youtube.com/watch?v=2oLhwB2LfOA)
 - [Cinematic Video](https://www.youtube.com/watch?v=bxgmPoVFkgo)
 - [Random video](https://www.youtube.com/watch?v=QRQGLfYO3AM)
-- [Infinity (JBL) Zip 500 Headphones Review | Best Film Making/Music Production Headphone Below Rs.1000](https://www.youtube.com/watch?v=VYdHLAidRT4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
