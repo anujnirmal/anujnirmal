@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The process of making a logo and animation from scratch and how we did it!](https://www.youtube.com/watch?v=aWxOAHiR0sE)
 - [Importance of lighting in a film, Demonstrated with one light](https://www.youtube.com/watch?v=bxa9kqFCVO0)
 - [Setting Up For Shoot | Cinematic  Shot (not really)😊](https://www.youtube.com/watch?v=KN9HPcF91UQ)
 - [Quick  update video || Anuj Nirmal](https://www.youtube.com/watch?v=v1nzIoj6JN4)
 - [LATEST SONY Vintage Camera || Video made during Lock down](https://www.youtube.com/watch?v=gZMjsPggjw0)
-- [Complete guide on choosing right video editor | free and paid | All video editors](https://www.youtube.com/watch?v=2oLhwB2LfOA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
