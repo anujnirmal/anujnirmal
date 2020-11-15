@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dancehall Beat by Rahul Darge](https://www.youtube.com/watch?v=8lwRqRTXFR4)
 - [Mad Entertainment Logo Animation](https://www.youtube.com/watch?v=x9WVeS24BbY)
 - [The process of making a logo and animation from scratch and how we did it!](https://www.youtube.com/watch?v=aWxOAHiR0sE)
 - [Importance of lighting in a film, Demonstrated with one light](https://www.youtube.com/watch?v=bxa9kqFCVO0)
 - [Setting Up For Shoot | Cinematic  Shot (not really)😊](https://www.youtube.com/watch?v=KN9HPcF91UQ)
-- [Quick  update video || Anuj Nirmal](https://www.youtube.com/watch?v=v1nzIoj6JN4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
