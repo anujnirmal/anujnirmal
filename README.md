@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Avengers 5 Official Trailer](https://www.youtube.com/watch?v=FH7gwlTVn-I)
 - [A film that never got completed](https://www.youtube.com/watch?v=IgKfwRdOls8)
 - [Maut Track By Rahul Darge](https://www.youtube.com/watch?v=Ty8JCij9h0s)
 - [Dancehall Beat by Rahul Darge](https://www.youtube.com/watch?v=8lwRqRTXFR4)
 - [Mad Entertainment Logo Animation](https://www.youtube.com/watch?v=x9WVeS24BbY)
-- [The process of making a logo and animation from scratch and how we did it!](https://www.youtube.com/watch?v=aWxOAHiR0sE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
