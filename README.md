@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Edit with even more precision | Audio Time Unit Premiere Pro #Shorts](https://www.youtube.com/watch?v=8k80RSr6gCw)
 - [Level out audio with just 2 Clicks! Multiband Compressor](https://www.youtube.com/watch?v=E2INMJl2kBo)
 - [Honest Talk | My Content Sucks](https://www.youtube.com/watch?v=S9RGKG4lfgY)
 - [Hungry? || For Production Crate VFX Competition](https://www.youtube.com/watch?v=sIq_aQEkdHE)
 - [Hungry?](https://www.youtube.com/watch?v=l3aFOF1m6vs)
-- [Making money as a solo-beginner film maker](https://www.youtube.com/watch?v=nyAdLCJ6m1U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
