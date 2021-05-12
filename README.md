@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do this to Zoom h1n Recorder every time you use it on a new project | Format Zoom h1n](https://www.youtube.com/watch?v=e99AmCmp9U0)
 - [Premiere Pro Audio Transition - Constant Power | Audio Fade](https://www.youtube.com/watch?v=8mn0xkB3PjQ)
 - [Gears I Use](https://www.youtube.com/watch?v=bjesK0BzLHc)
 - [Real Free Stock Footage, Music, Sound Effects, Templates Website](https://www.youtube.com/watch?v=nN0bFN2W3IM)
 - [Speed Up Premiere Pro timeline with this hidden option! FX!  #shorts](https://www.youtube.com/watch?v=mWwo06G4OkM)
-- [Edit with even more precision | Audio Time Unit Premiere Pro #Shorts](https://www.youtube.com/watch?v=8k80RSr6gCw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
