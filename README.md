@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Premiere Pro's Most Powerful Short Cut!](https://www.youtube.com/watch?v=T_cMM_C8ug0)
 - [Make voice sound like coming from RADIO](https://www.youtube.com/watch?v=tdBxVd4UYGM)
 - [This 3 Premiere Pro Shortcuts are MUST for faster editing](https://www.youtube.com/watch?v=9qNuJmbSqfU)
 - [Do this to Zoom h1n Recorder every time you use it on a new project | Format Zoom h1n](https://www.youtube.com/watch?v=e99AmCmp9U0)
 - [Premiere Pro Audio Transition - Constant Power | Audio Fade](https://www.youtube.com/watch?v=8mn0xkB3PjQ)
-- [Gears I Use](https://www.youtube.com/watch?v=bjesK0BzLHc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/madaboutfilms)
