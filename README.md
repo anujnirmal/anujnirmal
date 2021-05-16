@@ -45,7 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Premiere Pro's Most Powerful Short Cut!](https://www.youtube.com/watch?v=T_cMM_C8ug0)
+- [Premiere Pro's Most Powerful Short Cut | Tilda Key](https://www.youtube.com/watch?v=T_cMM_C8ug0)
 - [Make voice sound like coming from RADIO](https://www.youtube.com/watch?v=tdBxVd4UYGM)
 - [This 3 Premiere Pro Shortcuts are MUST for faster editing](https://www.youtube.com/watch?v=9qNuJmbSqfU)
 - [Do this to Zoom h1n Recorder every time you use it on a new project | Format Zoom h1n](https://www.youtube.com/watch?v=e99AmCmp9U0)
