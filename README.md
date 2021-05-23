@@ -45,7 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Code 100 - VFX Akatsuki #short](https://www.youtube.com/watch?v=7PeOb6gGJiQ)
+- [Code 100 - VFX AKATSUKI #short](https://www.youtube.com/watch?v=u7jzHLKuW18)
 - [Code 100 - Micro Film](https://www.youtube.com/watch?v=ZmIvr5ACpeU)
 - [A failed Attempt to make a film](https://www.youtube.com/watch?v=r4PyHZFAeCk)
 - [Correct  White Balance With Just Few Clicks - Premiere Pro](https://www.youtube.com/watch?v=BP3meQoETIc)
