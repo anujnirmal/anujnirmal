@@ -45,7 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sync audio in premiere pro | Automatic & Manual](https://www.youtube.com/watch?v=BYbq-5Qc1ZY)
+- [Sync audio in premiere pro | Automatic &amp; Manual](https://www.youtube.com/watch?v=BYbq-5Qc1ZY)
 - [Indian Gold Medals In Olympics From 1900](https://www.youtube.com/watch?v=jRG2fsqoyYA)
 - [Green Screen | Keying | After Effects #Shorts](https://www.youtube.com/watch?v=KoiXoKZ9dqw)
 - [Green Screen with tracking | Demo](https://www.youtube.com/watch?v=s8yyXab6QLA)
