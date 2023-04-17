@@ -1,12 +1,11 @@
 ### Hi there, I'm Anuj Nirmal - [website] 👋
 
 
-## I'm a Developer, Youtuber, Football Player, and a Student!
+## I'm a Full Stack Developer, Youtuber, Football Player, and a curious person!
 
-- 🔭 I’m currently working on a Social Network project
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to forward to making more youtube videos
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I built the worlds 1st workplace simulator
+- 🌱 I’m currently trying to improve my soft skills
+- 👯 I’m looking to forward to working on challenging projects
 - ⚡ Fun fact: I love to play Football⚽ and Read📖
 
 
