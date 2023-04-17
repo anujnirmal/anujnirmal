@@ -55,9 +55,6 @@
 
 ---
 
-  <img align="left" alt="anujnirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujnirmal&show_icons=true&hide_border=true" />
-
-
 
 [website]: https://anujnirmal.com
 [youtube]: https://youtube.com/madaboutfilms
