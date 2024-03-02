@@ -5,7 +5,7 @@
 
 - 🔭 I built the worlds 1st workplace simulator
 - 🌱 I’m currently trying to improve my soft skills
-- 👯 I’m looking to forward to working on challenging projects
+- 👯 I’m looking forward to working on challenging projects
 - ⚡ Fun fact: I love to play Football⚽ and Read📖
 
 
